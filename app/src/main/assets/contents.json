@@ -1,0 +1,1325 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.goen.whatsappsticker",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "spider_man",
+      "name": "Spider Man",
+      "publisher": "G.one",
+      "tray_image_file": "icon.png",
+      "publisher_email":"info.goneapps@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://goneprivacypolicy.blogspot.com/2019/07/privacy-policy.html",
+      "license_agreement_website": "https://goneprivacypolicy.blogspot.com/2019/07/all-sticker-used-in-this-applicatin-are.html",
+      "stickers": [
+        {
+          "image_file": "spider_man_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "spider_man_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "spider_man_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "spider_man_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "spider_man_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "spider_man_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "spider_man_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "spider_man_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "spider_man_9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "spider_man_10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "spider_man_11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "spider_man_12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "spider_man_13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "spider_man_14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "spider_man_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "spider_man_16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_17.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_18.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_19.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_20.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_21.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_22.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_23.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_24.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_25.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_26.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_27.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_28.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_29.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "spider_man_30.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },
+
+
+    {
+      "identifier": "puppy",
+      "name": "puppy",
+      "publisher": "G.oen",
+      "tray_image_file": "icon.png",
+      "publisher_email":"info.goneapps@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://goneprivacypolicy.blogspot.com/2019/07/privacy-policy.html",
+      "license_agreement_website": "https://goneprivacypolicy.blogspot.com/2019/07/all-sticker-used-in-this-applicatin-are.html",
+      "stickers": [
+        {
+          "image_file": "puppy_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "puppy_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "puppy_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "puppy_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "puppy_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "puppy_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "puppy_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "puppy_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "puppy_9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "puppy_10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "puppy_11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "puppy_12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "puppy_13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "puppy_14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "puppy_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "puppy_16.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },
+    {
+      "identifier": "crazy_girls",
+      "name": "Grazy Girls",
+      "publisher": "G.one",
+      "tray_image_file": "icon.png",
+      "publisher_email":"info.goneapps@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://goneprivacypolicy.blogspot.com/2019/07/privacy-policy.html",
+      "license_agreement_website": "https://goneprivacypolicy.blogspot.com/2019/07/all-sticker-used-in-this-applicatin-are.html",
+      "stickers": [
+        {
+          "image_file": "crazy_girls_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "crazy_girls_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "crazy_girls_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "crazy_girls_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "crazy_girls_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "crazy_girls_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "crazy_girls_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "crazy_girls_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "crazy_girls_9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "crazy_girls_10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "crazy_girls_11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "crazy_girls_12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "crazy_girls_13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "crazy_girls_14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "crazy_girls_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "crazy_girls_16.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },
+    {
+      "identifier": "Donkey",
+      "name": "Donkey",
+      "publisher": "G.one",
+      "tray_image_file": "icon.png",
+      "publisher_email": "info.goneapps@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://goneprivacypolicy.blogspot.com/2019/07/privacy-policy.html",
+      "license_agreement_website": "https://goneprivacypolicy.blogspot.com/2019/07/all-sticker-used-in-this-applicatin-are.html",
+      "stickers": [
+        {
+          "image_file": "Donkey_1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "Donkey_2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "Donkey_3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "Donkey_4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "Donkey_5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "Donkey_6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "Donkey_7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "Donkey_8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "Donkey_9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "Donkey_10.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "Donkey_11.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "Donkey_12.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "Donkey_13.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "Donkey_14.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "Donkey_15.webp",
+          "emojis": [
+            "💻",
+            "😩"
+          ]
+        },
+        {
+          "image_file": "Donkey_16.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "Donkey_17.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "Donkey_18.webp",
+          "emojis": [
+            "💻",
+            "🌃"
+          ]
+        },
+        {
+          "image_file": "Donkey_19.webp",
+          "emojis": [
+            "🎉",
+            "✨"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Hacker_boy",
+      "name": "Hacker Boy",
+      "publisher": "G.one",
+      "tray_image_file": "icon.png",
+      "publisher_email":"info.goneapps@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://goneprivacypolicy.blogspot.com/2019/07/privacy-policy.html",
+      "license_agreement_website": "https://goneprivacypolicy.blogspot.com/2019/07/all-sticker-used-in-this-applicatin-are.html",
+      "stickers": [
+        {
+          "image_file": "Hacker_boy_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Hacker_boy_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Hacker_boy_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "Hacker_boy_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hacker_boy_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "Hacker_boy_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "Hacker_boy_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "Hacker_boy_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "Hacker_boy_9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "Hacker_boy_10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "Hacker_boy_11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "Hacker_boy_12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "Hacker_boy_13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "Hacker_boy_14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "Hacker_boy_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "Hacker_boy_16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "Hacker_boy_17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "Hacker_boy_18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "Hacker_boy_19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "Hacker_boy_20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "Hacker_boy_21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "Hacker_boy_22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "Hacker_boy_23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "Hacker_boy_24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "Hacker_boy_25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "Hacker_boy_26.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "Hacker_boy_27.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "Hacker_boy_28.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "Hacker_boy_29.webp",
+          "emojis": ["📱","😦"]
+        }
+      ]
+    },
+    {
+      "identifier": "Hard_work_mouse",
+      "name": "Hard Worker Mouse",
+      "publisher": "G.one",
+      "tray_image_file": "icon.png",
+      "publisher_email":"info.goneapps@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://goneprivacypolicy.blogspot.com/2019/07/privacy-policy.html",
+      "license_agreement_website": "https://goneprivacypolicy.blogspot.com/2019/07/all-sticker-used-in-this-applicatin-are.html",
+      "stickers": [
+        {
+          "image_file": "Hard_work_mouse_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "Hard_work_mouse_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "Hard_work_mouse_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "Hard_work_mouse_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "Hard_work_mouse_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "Hard_work_mouse_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "Hard_work_mouse_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "Hard_work_mouse_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "Hard_work_mouse_9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "Hard_work_mouse_10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "Hard_work_mouse_11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "Hard_work_mouse_12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "Hard_work_mouse_13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "Hard_work_mouse_14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "Hard_work_mouse_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "Hard_work_mouse_16.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },{
+      "identifier": "Angry_Birds",
+      "name": "Angry Birds",
+      "publisher": "G.one",
+      "tray_image_file": "icon.png",
+      "publisher_email":"info.goneapps@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://goneprivacypolicy.blogspot.com/2019/07/privacy-policy.html",
+      "license_agreement_website": "https://goneprivacypolicy.blogspot.com/2019/07/all-sticker-used-in-this-applicatin-are.html",
+      "stickers": [
+        {
+          "image_file": "angry_brids_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "angry_brids_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "angry_brids_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "angry_brids_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "angry_brids_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "angry_brids_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "angry_brids_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "angry_brids_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "angry_brids_9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "angry_brids_10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "angry_brids_11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "angry_brids_12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "angry_brids_13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "angry_brids_14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "angry_brids_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "angry_brids_16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "angry_brids_17.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "angry_brids_18.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "angry_brids_19.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "angry_brids_20.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "angry_brids_21.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "angry_brids_22.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "angry_brids_23.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "angry_brids_24.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "angry_brids_16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "angry_brids_25.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "angry_brids_26.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "angry_brids_27.webp",
+          "emojis": ["😡","😤"]
+        }      ]
+    },{
+      "identifier": "crazy_dogs",
+      "name": "Crazy Dog",
+      "publisher": "G.one",
+      "tray_image_file": "icon.png",
+      "publisher_email":"info.goneapps@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://goneprivacypolicy.blogspot.com/2019/07/privacy-policy.html",
+      "license_agreement_website": "https://goneprivacypolicy.blogspot.com/2019/07/all-sticker-used-in-this-applicatin-are.html",
+      "stickers": [
+        {
+          "image_file": "crazy_dog_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "crazy_dog_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "crazy_dog_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "crazy_dog_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "crazy_dog_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "crazy_dog_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "crazy_dog_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "crazy_dog_9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "crazy_dog_10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "crazy_dog_11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "crazy_dog_12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "crazy_dog_13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "crazy_dog_14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "crazy_dog_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "crazy_dog_16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "crazy_dog_17.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "crazy_dog_18.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "crazy_dog_19.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "crazy_dog_7.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },{
+      "identifier": "loki",
+      "name": "Evel loki",
+      "publisher": "G.oen",
+      "tray_image_file": "icon.png",
+      "publisher_email":"info.goneapps@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://goneprivacypolicy.blogspot.com/2019/07/privacy-policy.html",
+      "license_agreement_website": "https://goneprivacypolicy.blogspot.com/2019/07/all-sticker-used-in-this-applicatin-are.html",
+      "stickers": [
+        {
+          "image_file": "loki_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "loki_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "loki_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "loki_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "loki_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "loki_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "loki_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "loki_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "loki_9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "loki_10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "loki_11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "loki_12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "loki_13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "loki_14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "loki_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "loki_16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "loki_17.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "loki_18.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "loki_19.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "loki_20.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },{
+      "identifier": "perfect_two",
+      "name": "Perfect Two",
+      "publisher": "G.one",
+      "tray_image_file": "icon.png",
+      "publisher_email":"info.goneapps@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://goneprivacypolicy.blogspot.com/2019/07/privacy-policy.html",
+      "license_agreement_website": "https://goneprivacypolicy.blogspot.com/2019/07/all-sticker-used-in-this-applicatin-are.html",
+      "stickers": [
+        {
+          "image_file": "perfect_two_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "perfect_two_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "perfect_two_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "perfect_two_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "perfect_two_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "perfect_two_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "perfect_two_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "perfect_two_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "perfect_two_9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "perfect_two_10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "perfect_two_11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "perfect_two_12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "perfect_two_13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "perfect_two_14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "perfect_two_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "perfect_two_16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_17.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_18.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },{
+      "identifier": "perfect_two_2",
+      "name": "Perfect Two 2",
+      "publisher": "G.one",
+      "tray_image_file": "icon.png",
+      "publisher_email":"info.goneapps@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://goneprivacypolicy.blogspot.com/2019/07/privacy-policy.html",
+      "license_agreement_website": "https://goneprivacypolicy.blogspot.com/2019/07/all-sticker-used-in-this-applicatin-are.html",
+      "stickers": [
+        {
+          "image_file": "perfect_two_19.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_20.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_21.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_22.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_23.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_24.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_25.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_26.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_27.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_28.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_29.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_30.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_31.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_32.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_33.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_34.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "perfect_two_35.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },{
+      "identifier": "pikachu_pokemon",
+      "name": "Pikachu",
+      "publisher": "G.one",
+      "tray_image_file": "icon.png",
+      "publisher_email":"info.goneapps@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://goneprivacypolicy.blogspot.com/2019/07/privacy-policy.html",
+      "license_agreement_website": "https://goneprivacypolicy.blogspot.com/2019/07/all-sticker-used-in-this-applicatin-are.html",
+      "stickers": [
+        {
+          "image_file": "pokemon_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "pokemon_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "pokemon_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "pokemon_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "pokemon_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "pokemon_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "pokemon_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "pokemon_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "pokemon_9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "pokemon_10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "pokemon_11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "pokemon_12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "pokemon_13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "pokemon_14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "pokemon_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "pokemon_16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "pokemon_17.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "pokemon_18.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "pokemon_19.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "pokemon_20.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "pokemon_21.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "pokemon_22.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "pokemon_23.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "pokemon_24.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "pokemon_25.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },{
+      "identifier": "love_bear",
+      "name": "Lovers",
+      "publisher": "G.one",
+      "tray_image_file": "icon.png",
+      "publisher_email":"info.goneapps@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "https://goneprivacypolicy.blogspot.com/2019/07/privacy-policy.html",
+      "license_agreement_website": "https://goneprivacypolicy.blogspot.com/2019/07/all-sticker-used-in-this-applicatin-are.html",
+      "stickers": [
+        {
+          "image_file": "lovers_1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "lovers_2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "lovers_3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "lovers_4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "lovers_5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "lovers_6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "lovers_7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "lovers_8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "lovers_9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "lovers_10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "lovers_11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "lovers_12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "lovers_13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "lovers_14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "lovers_15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "lovers_16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "lovers_17.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "lovers_18.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "lovers_19.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "lovers_20.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]
+}
